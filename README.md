@@ -2,7 +2,7 @@
 Mods to the Traynor yba3 bass guitar amp.
 
 ### Mike's mods
-The files `yba3-mikes-mods-final` in the Docs folder are the final revision of the mods I made to Mike's mid 1967 Traynor YBA-3 amp. The notes in the schematic explain what changes were made, and why, but don't go into much detail.
+The files `yba3-mikes-mods-final` in the docs folder are the final revision of the mods I made to Mike's mid 1967 Traynor YBA-3 amp. The notes in the schematic explain what changes were made, and why, but don't go into much detail.
 
 The early Traynor Custom Special heads were very robust and can be pushed further than a Marshall or Fender head. With a bit of work they lend themselves well to high gain and high speaker load mods with KT88 style tubes.
 
@@ -11,15 +11,15 @@ This Custom Special amp head is a mid-year 1967 model which is a mix of '67 and 
 The YC-810 Big B cabinet dates from about 1967 and consists of 8 RSC/Jensen 10" speakers wired in series parallel to give a cabinet impedance of 4 ohms. This cabinet has been a favourite with guitarists. 
 
 #### Provenance
-1967: rental amp at Musonic in West Hill, Ontario, Canada.
-1967-1969: gigging amp for bassist Bob Fleming of the band Leather.
-1970-1972: gigging amp for guitarist John Rolls of the band Bond.
-1973-1975: occassional gigging and jamming amp for guitarist Michael Gwynne of Blues Innovation
-1976-2019: rarely used
-2019: serviced and modified by R. Shpeley
+    1967: rental amp at Musonic in West Hill, Ontario, Canada.
+    1967-1969: gigging amp for bassist Bob Fleming of the band Leather.
+    1970-1972: gigging amp for guitarist John Rolls of the band Bond.
+    1973-1975: occassional gigging and jamming amp for guitarist Michael Gwynne of Blues Innovation
+    1976-2019: rarely used
+    2019: serviced and modified by R. Shpeley
 
-The following mods were performed and documentation can be found on GitHub at
-https://github.com/rshpeley/yba3mods
+The following mods were performed. Documentation can be found on GitHub in this repository,
+    https://github.com/rshpeley/yba3mods
 
 #### Power Supply
 1. The 2 wire power cord was replaced with a three wire power cord for safety. The AC ground filter cap now connects from neutral AC to ground to absorb transients from the leakage inductance of the power transformer when the amp is switched off.
