@@ -11,12 +11,12 @@ These mods were:
 4. Power tube suppressor grids are returned to ground instead of negative bias. I know what some people say about the suppressor grid bias to negative, but I found that quiescent screen grid current was just too high. Leaving it original was goimg to reduce the lifetimes of the power tubes, and frankly the power stage sounds more dynamic.
 5. The bias voltage range was adjusted to allow biasing the output tubes with grounded suppressor grids.
 6. The '68 preamp stage voltage wiring was used to reduce the input stage voltages and to provide better power filtering.
-7. Ceramic caps were replaced with silver mica or orange drop polyester film/foil types. Most of these caps are microphonic (tap on them with a screwdriver when the amp is on but not too loud). 
-8. A presence switch was added to lossen up the damping of the output stage in the mid to higher frequencies.
+7. Ceramic caps were replaced with silver mica or orange drop polyester film/foil types. Most ceramic caps are microphonic. Tap on them with a screwdriver when the amp is on (but not too loud) to see for yourself.
+8. A presence switch was added to lossen up feedback damping of the output stage in the mid to higher frequencies.
 9. The power tube negative bias resistors were reduced in value to reduce the effect of control grid leakage. 
 10. The thyrectors across the output transformer were removed and reverse biased rectifiers to ground were used in their place. Both of these methods reduce the high voltages produced from output transformer leakage inductance when a cabinet is disconnected from the output.
-11. The power tubes were wired to allow operation in pairs instead of quads. V4/V7 or V5/V6 may be removed to reduce the output power of the amp when driving a higher impedance cabinet. Independent group screen resistors shown in Note 4 on schematic 3 permits these groupings to work.
-12. Four 1 ohm cathode resistors allows power tube cathode currents to be independently measured when setting power stage bias currents.
+11. The power tubes were wired to allow operation in pairs instead of quads. V4/V7 or V5/V6 may be removed to reduce the output power of the amp when driving a higher impedance cabinet. Independent group screen resistors shown in Note 4 on schematic 3 permits these tube groups to work.
+12. Four 1 ohm cathode resistors allow power tube cathode currents to be independently measured when setting power stage bias currents.
 
 ### Have mods to contribute?
 If you've made mods to the YBA-3 and would like to post them here, just clone this repository, make your changes to the svg schematic files and create a pull request.
