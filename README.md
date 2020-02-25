@@ -1,9 +1,8 @@
-<style>.markdown-body h1 {color:#44c}</style>
 # yba3mods
 
 Mods to the Traynor yba-3 bass guitar amp.
 
-### <span style = "color:#888">Mike's mods</span>
+### Mike's mods
 
 The files `yba3-mikes-mods-final` in the docs folder are the final revision of the mods I made to Mike's mid 1967 Traynor YBA-3 amp. The notes in the schematics explain what changes were made but don't go into much detail.
 
