@@ -15,7 +15,7 @@
    viewBox="0 0 279.4 215.9"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.4 (unknown)"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="yba3-mikes-mods-final-1.svg">
   <defs
      id="defs2">
@@ -388,10 +388,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="595.95441"
-     inkscape:cy="385.86077"
+     inkscape:cx="428.45441"
+     inkscape:cy="425.86077"
      inkscape:document-units="in"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g5891-3"
      showgrid="false"
      units="in"
      inkscape:pagecheckerboard="false"
@@ -409,7 +409,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -3006,17 +3006,17 @@
            style="font-size:3.17499995px;stroke-width:0.26458332"
            y="246.00159"
            x="8.5196037"
-           sodipodi:role="line">than a year the amp should be left in standby</tspan><tspan
+           sodipodi:role="line">than one year the amp should be left in </tspan><tspan
            style="font-size:3.17499995px;stroke-width:0.26458332"
            y="249.97034"
            x="8.5196037"
            sodipodi:role="line"
-           id="tspan2451">mode (standby switch down), tubes removed, </tspan><tspan
+           id="tspan2100">standby mode (standby switch down) for at  </tspan><tspan
            style="font-size:3.17499995px;stroke-width:0.26458332"
            y="253.93909"
            x="8.5196037"
            sodipodi:role="line"
-           id="tspan2100">and powered on for at 8 least  hours.</tspan></text>
+           id="tspan1743">least 8 hours.</tspan></text>
     </g>
     <g
        transform="translate(60.748218,33.830788)"
@@ -3454,7 +3454,7 @@
     </g>
     <g
        id="g4237"
-       transform="translate(56.142503,-33.820987)">
+       transform="translate(56.142503,-31.704319)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -3619,7 +3619,7 @@
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="cc" />
         <path
-           style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.254;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25400001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            d="M -32.629084,143.99145 H -58.100123"
            id="path1961-2"
            inkscape:connector-curvature="0" />
@@ -3961,7 +3961,7 @@
          id="tspan1342"
          x="220.6953"
          y="279.991"
-         style="font-size:3.17499995px;stroke-width:0.26458332">0.1.0</tspan></text>
+         style="font-size:3.17499995px;stroke-width:0.26458332">0.1.1</tspan></text>
     <text
        id="text1348"
        y="279.991"
@@ -3983,7 +3983,7 @@
          id="tspan1350"
          x="254.90973"
          y="279.991"
-         style="font-size:3.17499995px;stroke-width:0.26458332">Jul 19, 2019</tspan></text>
+         style="font-size:3.17499995px;stroke-width:0.26458332">Feb 24, 2020</tspan></text>
     <g
        id="g8563"
        transform="matrix(0.00750752,0,0,0.00750752,198.0582,276.05315)">
@@ -4098,7 +4098,7 @@
            x="8.6518955"
            y="226.687"
            style="font-size:3.17499995px;stroke-width:0.26458332"
-           id="tspan3311-3">NEVER EXIT STANDBY WITH THE TUBES REMOVED!</tspan></text>
+           id="tspan3311-3">NEVER POWER ON WITH THE TUBES REMOVED!</tspan></text>
     </g>
     <g
        id="g2721"
@@ -4183,7 +4183,7 @@
              x="215.08847"
              y="101.16012"
              style="font-size:3.17510748px;line-height:1.20000005;stroke-width:0.26459229"
-             id="tspan1330-6-2-6">2019 R. Shpeley</tspan></text>
+             id="tspan1330-6-2-6">2019/2020 R. Shpeley</tspan></text>
         <g
            id="g2579"
            transform="translate(5.2916667,8.4666659)">
