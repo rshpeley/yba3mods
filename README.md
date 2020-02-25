@@ -16,7 +16,7 @@ The YC-810 Big B cabinet dates from about 1967 and consists of (8) 8 ohm RSC/Jen
 > 1970-1972: gigging amp for guitarist John Rolls of the band Bond.\
 > 1973-1975: occassional gigging and jamming amp for guitarist Michael Gwynne of Blues Innovation\
 > 1976-2019: rarely used\
-> 2019: serviced and modified by R. Shpeley\
+> 2019: serviced and modified by R. Shpeley
 
 Documentation can be found on GitHub in this repository, https://github.com/rshpeley/yba3mods
 
