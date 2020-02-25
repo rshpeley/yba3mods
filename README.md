@@ -83,17 +83,13 @@ Or if you have a GitHub account fork this project into your own GitHub account a
 ##### What you can do:
 
 1. You can copy and use the files as is, but please post a link back to these docs if you want to pass them along or refer to them in a public setting. This ensures that whoever views the docs is getting the correct version of them. This is what GitHub was designed for.
-
 2. If you modify the documents any revisions you make must be identified as yours and you must also provide author, revision, license (CC by 4.0) and date details of yourself in a new top line in the legend of the schematic.
-
 3. Suggest changes to the documents by opening a GitHub Issue.
 
 ##### What you can't do:
 
 1. You cannot use the s-logo trademark, as shown at the top right of the document, except in the author section of the document legend (in the bottom right of the document) where I use it in place of my name. The s-logo at the top right of the document identifies my sole work and must be removed when changes by other people are made.
-
 2. You can't remove attributions, such as my copyright or trademark claims, authorship, or the link back to this repository. 
-
 3. Obfuscate (hide) authorship, attribution or repository link in any way whatsoever.
 
 ##### Please note:
