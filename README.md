@@ -11,17 +11,12 @@ This Custom Special amp head is a mid-year 1967 model which is a mix of '67 and 
 The YC-810 Big B cabinet dates from about 1967 and consists of (8) 8 ohm RSC/Jensen 10" speakers wired in series parallel to give a cabinet impedance of 4 ohms. This cabinet has been a favourite with guitarists. 
 
 #### Provenance
-> 1967: rental amp at Musonic in West Hill, Ontario, Canada.
->
-> 1967-1969: gigging amp for bassist Bob Fleming of the band Leather.
->
-> 1970-1972: gigging amp for guitarist John Rolls of the band Bond.
->
-> 1973-1975: occassional gigging and jamming amp for guitarist Michael Gwynne of Blues Innovation
->
-> 1976-2019: rarely used
->
-> 2019: serviced and modified by R. Shpeley
+> 1967: rental amp at Musonic in West Hill, Ontario, Canada.\
+> 1967-1969: gigging amp for bassist Bob Fleming of the band Leather.\
+> 1970-1972: gigging amp for guitarist John Rolls of the band Bond.\
+> 1973-1975: occassional gigging and jamming amp for guitarist Michael Gwynne of Blues Innovation\
+> 1976-2019: rarely used\
+> 2019: serviced and modified by R. Shpeley\
 
 Documentation can be found on GitHub in this repository, https://github.com/rshpeley/yba3mods
 
