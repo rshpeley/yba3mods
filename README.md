@@ -72,14 +72,14 @@ The second stage of the V1 tube (currently unused) can be wired as a gain stage 
 
 I can't guarantee the voltages 100% since my Fluke was about 3400km away at the time and I had to make do with a small autoranging meter.
 
-### Have a question or suggestion?
+#### Have a question or suggestion?
 Go to the GitHub Issues tab and open an issue.
 
 If you're wondering how the amp sounds, Mike said it nailed the Marshall sound. Personally I think the YBA-3 has more power dynamics than the Marshall. Its distortion balance is more towards the preamp side giving the power stage a bit more dynamic room with its more robust Hammond power transformer. 
 
 Overall, it's an impressive amp. It may even be better with KT88s if you're looking for more power.
 
-### Have mods to contribute?
+#### Have mods to contribute?
 
 If you've made mods to a YBA-3 and would like to post them here, just clone this repository, make your changes to the svg schematic files in the cloned repository and create a pull request through GitHub. I'll check over your mods, maybe discuss a few things to clear up any questions you or I have, then I'll update the repository to post your mods.
 
@@ -99,7 +99,7 @@ Or if you have a GitHub account, fork this project into your account and modify 
 2. You can't remove attributions, such as my copyright or trademark claims, authorship, or the link back to this repository. 
 3. Hide or obscure authorship, attribution, or the repository link in any way whatsoever.
 
-##### Please note:
+#### Please note
 
 I've provided these documents for the purpose of sharing knowledge about how I modified the Traynor YBA-3 bass amp with the hope that this knowledge may be useful for others. If you choose to post your own mods here, that's great if they're posted for informational purposes. The yba3mods project repository is not intended to be used to promote business activities.
 
