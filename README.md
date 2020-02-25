@@ -1,4 +1,4 @@
-![header](/img/header-s-logo.png)
+![header](/img/header-s-logo.svg)
 # yba3mods
 
 Mods to the Traynor YBA-3 bass guitar amp.
