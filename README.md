@@ -11,17 +11,21 @@ This Custom Special amp head is a mid-year 1967 model which is a mix of '67 and 
 The YC-810 Big B cabinet dates from about 1967 and consists of (8) 8 ohm RSC/Jensen 10" speakers wired in series parallel to give a cabinet impedance of 4 ohms. This cabinet has been a favourite with guitarists. 
 
 #### Provenance
-    1967: rental amp at Musonic in West Hill, Ontario, Canada.
-    1967-1969: gigging amp for bassist Bob Fleming of the band Leather.
-    1970-1972: gigging amp for guitarist John Rolls of the band Bond.
-    1973-1975: occassional gigging and jamming amp for guitarist Michael Gwynne of Blues Innovation
-    1976-2019: rarely used
-    2019: serviced and modified by R. Shpeley
+> 1967: rental amp at Musonic in West Hill, Ontario, Canada.
+> 1967-1969: gigging amp for bassist Bob Fleming of the band Leather.
+> 1970-1972: gigging amp for guitarist John Rolls of the band Bond.
+> 1973-1975: occassional gigging and jamming amp for guitarist Michael Gwynne of Blues Innovation
+> 1976-2019: rarely used
+> 2019: serviced and modified by R. Shpeley
 
-The following mods were performed. Documentation can be found on GitHub in this repository,
-    https://github.com/rshpeley/yba3mods
+Documentation can be found on GitHub in this repository, https://github.com/rshpeley/yba3mods
+
+The following mods were performed:
 
 #### Power Supply
+
+![yba3-mikes-mods-final-1](/docs/yba3-mikes-mods-final-1.svg)
+
 1. The 2 wire power cord was replaced with a three wire power cord for safety. The AC ground filter cap now connects from neutral AC to ground to absorb transients from the leakage inductance of the power transformer when the amp is switched off.
 2. The ground switch was not required and was removed.
 3. AC and power supply grounds were made to one common point.
@@ -32,11 +36,17 @@ The following mods were performed. Documentation can be found on GitHub in this 
 8. The stacked power supply caps in the original design results in a cascade failure if one of the caps in the stack fails short (i.e. the cap shorts out). They were replaced by 2 banks of paralleled higher voltage sprague atom caps.
 
 #### Preamp 
+
+![yba3-mikes-mods-final-2](/docs/yba3-mikes-mods-final-2.svg)
+
 1. Ceramic caps were replaced with silver mica or orange drop polyester film/foil types. Most ceramic caps are microphonic. Tap on them with a screwdriver when the amp is on at low volume to see for yourself.
 2. Input jack ground connections have been isolated at the front panel and returned through coaxial cables to reduce hum pickup in this section.
 3. Cathode bypass electrolytic caps were replaced with sprague atoms.
 
 #### Phase Inverter/Power Stage
+
+![yba3-mikes-mods-final-3](/docs/yba3-mikes-mods-final-3.svg)
+
 1. The power tubes were wired for the option to reduce output power in half by running only 2 tubes, in V4/V7 or V5/V6 groups, to better match 8 ohm cabinets. Independent group screen resistors shown in Note 4 on schematic 3 permits these tube groups to work.
 2. Each power tube grid and screen have their own resistors to increase output stage high frequency stability.
 3. Four 1 ohm cathode resistors have been added to measure the bias current of each output tube when setting power stage bias currents. 
