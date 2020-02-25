@@ -1,7 +1,7 @@
 ![header](/img/header.svg)
 # yba3mods
 
-Mods to the Traynor yba-3 bass guitar amp.
+Mods to the Traynor YBA-3 bass guitar amp.
 
 ### Mike's mods
 
