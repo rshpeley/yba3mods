@@ -74,9 +74,9 @@ Overall, it's an impressive amp. It may even be better with KT88s if you're look
 
 ### Have mods to contribute?
 
-If you've made mods to a YBA-3 and would like to post them here, just clone this repository, make your changes to the svg schematic files in the cloned repository and create a pull request through GitHub. I check over your mods, maybe discuss a few things to clear up any questions you or I have then I'll update the repository to post your mods.
+If you've made mods to a YBA-3 and would like to post them here, just clone this repository, make your changes to the svg schematic files in the cloned repository and create a pull request through GitHub. I'll check over your mods, maybe discuss a few things to clear up any questions you or I have, then I'll update the repository to post your mods.
 
-Or if you have a GitHub account fork this project into your own GitHub account and modify it from there.
+Or if you have a GitHub account, fork this project into your account and modify it from there.
 
 #### How to keep the license terms
 
