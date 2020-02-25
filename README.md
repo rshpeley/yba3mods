@@ -22,7 +22,7 @@ Documentation can be found on GitHub in this repository, https://github.com/rshp
 
 The following mods were performed:
 
-#### Power Supply
+#### Power supply
 
 ![yba3-mikes-mods-final-1](/docs/yba3-mikes-mods-final-1.svg)
 
@@ -43,7 +43,7 @@ The following mods were performed:
 2. Input jack ground connections have been isolated at the front panel and returned through coaxial cables to reduce hum pickup in this section.
 3. Cathode bypass electrolytic caps were replaced with sprague atoms.
 
-#### Phase Inverter/Power Stage
+#### Phase inverter/power stage
 
 ![yba3-mikes-mods-final-3](/docs/yba3-mikes-mods-final-3.svg)
 
@@ -64,6 +64,10 @@ With negative bias on the suppressor, the EL34 style tube is at its screen dissi
 #### Further mods
 
 The second stage of the V1 tube (currently unused) can be wired as a gain stage similar to Train Wreck amps. KT88s, 6550 and similar tubes can be used in place of the 6CA7s in this amp. Pin 1 wiring can stay as-is if the tube base shell connects to pin 1 (or has no connection) and a bias voltage mod is needed to get proper bias levels.
+
+#### Voltage measurements
+
+I can't guarantee the voltages 100% since my Fluke was about 3400km away at the time and I had to make do with a small autoranging meter.
 
 ### Have a question or suggestion?
 Go to the GitHub Issues tab and open an issue.
@@ -90,9 +94,9 @@ Or if you have a GitHub account, fork this project into your account and modify 
 
 1. You cannot use the s-logo trademark, as shown at the top right of the document, except in the author section of the document legend (in the bottom right of the document) where I use it in place of my name. The s-logo at the top right of the document identifies my sole work and must be removed when changes by other people are made.
 2. You can't remove attributions, such as my copyright or trademark claims, authorship, or the link back to this repository. 
-3. Obfuscate (hide) authorship, attribution or repository link in any way whatsoever.
+3. Hide or obscure authorship, attribution, or the repository link in any way whatsoever.
 
 ##### Please note:
 
-I've provided these documents for the purpose of sharing knowledge about how I modified the Traynor YBA-3 bass amp with the hope that this knowledge may be useful for others. If you choose to post your own mods here, that's great, if they're posted for informational purposes. The yba3mods project repository is not intended to be used to promote business activities.
+I've provided these documents for the purpose of sharing knowledge about how I modified the Traynor YBA-3 bass amp with the hope that this knowledge may be useful for others. If you choose to post your own mods here, that's great if they're posted for informational purposes. The yba3mods project repository is not intended to be used to promote business activities.
 
