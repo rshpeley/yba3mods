@@ -1,7 +1,10 @@
+<style>.markdown-body h1 {color:#44c}</style>
 # yba3mods
-Mods to the Traynor yba3 bass guitar amp.
 
-### Mike's mods
+Mods to the Traynor yba-3 bass guitar amp.
+
+### <span style = "color:#888">Mike's mods</span>
+
 The files `yba3-mikes-mods-final` in the docs folder are the final revision of the mods I made to Mike's mid 1967 Traynor YBA-3 amp. The notes in the schematics explain what changes were made but don't go into much detail.
 
 The early Traynor Custom Special heads were very robust and can be pushed further than a Marshall or Fender head. With a bit of work they lend themselves well to high gain and high speaker load mods with KT88 style tubes.
