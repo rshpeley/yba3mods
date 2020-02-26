@@ -72,14 +72,16 @@ The second stage of the V1 tube (currently unused) can be wired as a gain stage 
 
 I can't guarantee the voltages 100% since my Fluke was about 3400km away at the time and I had to make do with a small autoranging meter.
 
+#### So how does it sound?
+
+Mike said it nailed the Marshall sound (with the presence circuit on). Personally I think the YBA-3 has more power dynamics than the Marshall. Its distortion balance is more towards the preamp side giving the power stage a bit more dynamic room with its more robust Hammond power transformer. 
+
+Overall, it's an impressive amp. It may even be better with KT88s if you're looking for more power. Or you can try just a pair of KT88s into a 4 ohm cab, which may be just right for a bass guitar.
+
 ---
 
 #### Have a question or suggestion?
 Go to the GitHub Issues tab and open an issue.
-
-If you're wondering how the amp sounds, Mike said it nailed the Marshall sound. Personally I think the YBA-3 has more power dynamics than the Marshall. Its distortion balance is more towards the preamp side giving the power stage a bit more dynamic room with its more robust Hammond power transformer. 
-
-Overall, it's an impressive amp. It may even be better with KT88s if you're looking for more power.
 
 #### Have mods to contribute?
 
