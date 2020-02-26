@@ -33,7 +33,7 @@ The following mods were performed:
 2. The ground switch was not required and was removed.
 3. AC and power supply grounds were made to one common point.
 4. Added a 390K 2W standby resistor which leaks a small current while in standby mode to limit the power supply cap surge current and to reform power capacitor dielectrics when the amp is in standby mode. 
-5. The standby resistor can also be used to reform the power supply caps if the amp hasn't been used for more than a year. To do this put the standby switch into standby mode (with the switch handle in the down position) and turn on AC power. Leave it powered up for at least 8 hours.
+5. The standby resistor can also be used to start reforming the power supply caps if the amp hasn't been used for more than a year. To do this put the standby switch into standby mode (with the switch handle in the down position) and turn on AC power. Leave it powered up for at least 8 hours. Final reforming will take place once the amp is switched out of standby. 
 6. The '68 preamp stage power wiring was modified to the '68 to '70 revision to isolate the preamp from transient and high frequency sag effects allowing the phase inverter to be overdriven better at higher playing volumes. 
 7. The power inductor of the '67 and the better filtering of the '68 to '70 power wiring makes for very low hum levels.
 8. The stacked power supply caps in the original design results in a cascade failure if one of the caps in the stack fails short (i.e. the cap shorts out). They were replaced by 2 banks of paralleled higher voltage sprague atom caps.
