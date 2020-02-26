@@ -78,6 +78,18 @@ Mike said it nailed the Marshall sound (with the presence circuit on). Personall
 
 Overall, it's an impressive amp. It may even be better with KT88s if you're looking for more power. Or you can try just a pair of KT88s into a 4 ohm cab, which may be just right for a bass guitar.
 
+#### My impressions modding the YBA-3
+
+I just love all that Hammond transformer iron -- two big transformers and a power choke. This amp is heavy, but in a good way. The over spec'd iron gives a modder a lot of leeway in the power stage. I have no doubt it can handle four KT88s into a 2 ohm load, but I would use a thermal IR gun (directed at the iron laminates) to confirm that to be on the safe side.
+
+There's some spare room on the fish paper for circuit mods. The chassis is big with unobstructed areas to place larger components (such as new power caps). Replacing the ceramic caps was pretty straight forward and adding the extra screen and cathode resistors went smoothly.
+
+The preamp circuit was a pleasant surprise. I thought it was biased too heavy, but I couldn't argue with its tone. The vintage short plate Mullard 12AX7As do an excellent job here, as they do in the older Marshall heads. 
+
+I would have liked trying out a pair of KT88s in this amp. If anyone has made this mod, open an issue and let me know how you made out.
+
+In the end I had more fun than I thought I might, maybe because I felt a bit like Pete Traynor as he hacked his amps to squeeze more tone and reliability out of them. You can feel that legacy working on this more than 50 year old amp. 
+
 ---
 
 #### Have a question or suggestion?
