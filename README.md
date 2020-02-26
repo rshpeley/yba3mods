@@ -72,6 +72,8 @@ The second stage of the V1 tube (currently unused) can be wired as a gain stage 
 
 I can't guarantee the voltages 100% since my Fluke was about 3400km away at the time and I had to make do with a small autoranging meter.
 
+---
+
 #### Have a question or suggestion?
 Go to the GitHub Issues tab and open an issue.
 
@@ -98,6 +100,8 @@ Or if you have a GitHub account, fork this project into your account and modify 
 1. You cannot use the s-logo trademark, as shown at the top right of the document, except in the author section of the document legend (in the bottom right of the document) where I use it in place of my name. The s-logo at the top right of the document identifies my sole work and must be removed when changes by other people are made.
 2. You can't remove attributions, such as my copyright or trademark claims, authorship, or the link back to this repository. 
 3. Hide or obscure authorship, attribution, or the repository link in any way whatsoever.
+
+---
 
 #### Please note
 
