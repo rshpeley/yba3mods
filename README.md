@@ -59,14 +59,25 @@ The following mods were performed:
 7. Power tube suppressor grids were wired to ground (through a 1 ohm resistor) instead of negative bias.
 8. The power tube bias voltage range was adjusted to allow biasing the output tubes with grounded suppressor grids.
 
+#### Running two tubes in the output stage 
+As discussed above, two power tubes can be put into either Group 1 or Group 2. This means that to run at reduced power into an 8 ohm cab you'll need to remove two power tubes. The power tube sockets are marked on the chassis for V4, V5, V6, and V7.
+
+If you want to run Group 1 tubes remove the power tubes marked V5 and V6, or for Group 2 remove tubes V4 and V7. Obviously, power down the amp and let the tubes cool before doing this.
+
+You may be thinking you can throw a switch in there to do the job, and technically you can. But at these voltages, and with the convenience of a switch, someone is going to throw it when playing live. It may not be you, but it will be someone.
+
+An inductive kick from the disruption of current can wreak havoc on the switch, activate the transformer protection diodes, and could potentially pop the voice coil out of one or more speakers. I thought it was a good tradeoff by not installing a switch, worth the inconvenience of waiting 10 minutes for the sake of increased safety and reliability.
+
+If you do decide to put a switch in, keep in mind it has to withstand at least 1000V, with peak voltage in the range of 2000V.
+
 #### A note on the suppressor grid wired to -bias
 The 6CA7 power pentode was available as either a true pentode or a beam power tube. It's not clear if Pete Traynor tested his suppressor grid wiring with Mullard/Philips EL34 pentodes or American 6CA7 beam power tubes. The negative bias voltage on the beam forming (suppressor) plate has very little effect on the characteristics of a 6CA7 beam tube, but it substantially increases screen current in the EL34 pentodes. 
 
-With negative bias on the suppressor, the EL34 style tube is at its screen dissipation limit with no signal. When a signal is applied screen dissipation exceeds its design limit which can lead to early output tube failure. The solution is to either cut back output tube bias to 50% of plate dissipation (which makes the amp sound deader) or to ground the suppressor grids as done by Marshall. The non-linear effect of the -bias on the suppressor grid can alternately be achieved by increasing the screen resistance value, which also helps to prolong output tube life.
+With negative bias on the suppressor, the EL34 style tube is at its screen dissipation limit with no signal. When a signal is applied screen dissipation exceeds its design limit which can lead to early output tube failure. The solution is to either cut back output tube bias current (which makes the amp sound deader) or to ground the suppressor grids as done by Marshall. The non-linear effect of the -bias on the suppressor grid can alternately be achieved by increasing the screen resistance value, which also helps to prolong output tube life.
 
 #### Further mods
 
-The second stage of the V1 tube (currently unused) can be wired as a gain stage similar to Train Wreck amps. KT88s, 6550 and similar tubes can be used in place of the 6CA7s in this amp. Pin 1 wiring can stay as-is if the tube base shell connects to pin 1 (or has no connection) and a bias voltage mod is needed to get proper bias levels.
+The second stage of the V1 tube (currently unused) can be wired as a gain stage similar to Train Wreck amps. KT88s, 6550 and similar tubes can be used in place of the 6CA7s in this amp. Pin 1 wiring can stay as-is if the tube base shell connects to pin 1 (or has no connection). A bias voltage mod is needed to get proper bias levels.
 
 #### Voltage measurements
 
@@ -80,7 +91,7 @@ Overall, it's an impressive amp. It may even be better with KT88s if you're look
 
 #### My impressions modding the YBA-3
 
-I just love all that Hammond transformer iron -- two big transformers and a power choke. This amp is heavy, but in a good way. The over spec'd iron gives a modder a lot of leeway in the power stage. I have no doubt it can handle four KT88s into a 2 ohm load, but I would use a thermal IR gun (directed at the iron laminates) to confirm that to be on the safe side.
+I just love all that Hammond transformer iron -- two big transformers and a power choke. This amp is heavy, but in a good way. The over spec'd iron gives a modder a lot of leeway in the power stage. I have no doubt it can handle four KT88s into a 2 ohm load, but I would use a thermal IR gun (directed at the iron laminates of all the iron) to confirm that to be on the safe side.
 
 There's some spare room on the fish paper for circuit mods. The chassis is big with unobstructed areas to place larger components (such as new power caps). Replacing the ceramic caps was pretty straight forward and adding the extra screen and cathode resistors went smoothly.
 
@@ -88,7 +99,7 @@ The preamp circuit was a pleasant surprise. I thought it was biased too heavy, b
 
 I would have liked trying out a pair of KT88s in this amp. If anyone has made this mod, open an issue and let me know how you made out.
 
-In the end I had more fun than I thought I might, maybe because I felt a bit like Pete Traynor as he hacked his amps to squeeze more tone and reliability out of them. You can feel that legacy working on this more than 50 year old amp. 
+In the end I had more fun than I thought I might, maybe because I felt a bit like Pete Traynor as he hacked his amps to squeeze more tone and reliability out of them. You can get a sense of his legacy working on this more than 50 year old amp. 
 
 ---
 
